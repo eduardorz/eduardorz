@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eduardo Ruiz</h1>
 <h3 align="center">A Full-Stack Developer from Venezuela, currently living in Argentina.</h3>
 
+<p>I am a passionate Full Stack Developer with a strong focus in back-end development. I have built up experience developing web applications, using technologies such as NestJS, Node.js, TypeScript, PostgreSQL, MongoDB, and ExpressJS. I am always eager to learn and implement new technologies, and I enjoy tackling challenges that allow me to grow professionally.
+
+I have a background in computer science, having studied two years of Computer Engineering and a years of a Bachelor’s in Computer Science at the National University of Córdoba. Additionally, I completed a bootcamp at SoyHenry, where I worked on practical web development projects.
+
+I stand out for my problem-solving skills, attention to detail, effective communication, continuous learning, and adaptability. Whether it's working on front-end design (though it's not my strongest suit!) or handling complex back-end logic, I am committed to delivering quality solutions. </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardorz" alt="eduardorz" /></a> </p>
 
 - 🔭 I’m currently working on [gympass](https://github.com/eduardorz/gympass)
