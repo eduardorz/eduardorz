@@ -13,7 +13,7 @@ I stand out for my problem-solving skills, attention to detail, effective commun
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eduardo-ruiz-marin/](https://www.linkedin.com/in/eduardo-ruiz-marin/)
 
-- ⚡ Fun fact **I can code max. 3h without coffe**
+- ⚡ Fun fact: **I can code max. 3h without coffe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
