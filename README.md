@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [gympass](https://github.com/eduardorz/gympass)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/eduardo-ruiz-marin/](https://www.linkedin.com/in/eduardo-ruiz-marin/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/eduardo-ruiz-marin/](eduardo-ruiz-marin)
 
 - ⚡ Fun fact **I can code max. 3h without coffe**
 
